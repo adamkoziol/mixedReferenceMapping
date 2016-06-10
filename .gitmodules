@@ -1,0 +1,8 @@
+[submodule "SPAdesPipeline"]
+	path = SPAdesPipeline
+	url = https://github.com/adamkoziol/SPAdesPipeline.git
+	branch = dev
+[submodule "geneSipprV2"]
+	path = geneSipprV2
+	url = https://github.com/OLC-LOC-Bioinformatics/geneSipprV2.git
+	branch = dev
